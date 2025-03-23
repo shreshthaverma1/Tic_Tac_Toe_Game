@@ -12,21 +12,6 @@ A modern and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - Reset & New Game Options – Restart the game anytime  
 - Fully Responsive – Optimized for all screen sizes  
 
----
-
-## Live Demo
-
-[Play Tic-Tac-Toe](#) *(Replace with live link if hosted)*  
-
----
-
-## Preview  
-
-![Tic-Tac-Toe Screenshot](screenshot.png)  
-*(Replace with an actual screenshot of your game)*  
-
----
-
 ## Technologies Used
 
 - HTML – Structure of the game  
@@ -86,13 +71,7 @@ Contributions are welcome. To improve the game, follow these steps:
 2. Create a new feature branch (`git checkout -b feature-name`)  
 3. Commit your changes (`git commit -m "Add new feature"`)  
 4. Push to your fork (`git push origin feature-name`)  
-5. Submit a pull request  
-
----
-
-## License  
-
-This project is open-source and available under the MIT License.  
-
+5. Submit a pull request
+   
 ---
  
